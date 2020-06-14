@@ -14,7 +14,7 @@ namespace NotificationApp
             container.Register<IMailSender, MailSender>();
             container.Register<IReminderSender, ReminderSender>();
 
-            switch (args[0])
+            switch ("reminder")
             {
                 case "survey":
                     container.Register<SendNotification>();

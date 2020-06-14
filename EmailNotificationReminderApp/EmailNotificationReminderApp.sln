@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationApp", "NotificationApp\NotificationApp.csproj", "{AF7E1DF1-8B23-4D9C-9334-13F4B1B88D95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurveyAPI", "SurveyAPI\SurveyAPI.csproj", "{1703F005-5CC8-4DC3-94DF-965E30C7C73E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AF7E1DF1-8B23-4D9C-9334-13F4B1B88D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF7E1DF1-8B23-4D9C-9334-13F4B1B88D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF7E1DF1-8B23-4D9C-9334-13F4B1B88D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1703F005-5CC8-4DC3-94DF-965E30C7C73E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1703F005-5CC8-4DC3-94DF-965E30C7C73E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1703F005-5CC8-4DC3-94DF-965E30C7C73E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1703F005-5CC8-4DC3-94DF-965E30C7C73E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

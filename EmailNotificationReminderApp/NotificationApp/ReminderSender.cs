@@ -31,7 +31,7 @@ namespace NotificationApp
                 message.Subject = emailSubject;
                 message.IsBodyHtml = false;
                 message.To.Add(new MailAddress(resp.EmailId));
-                message.Body = "Hello! Is there anybody in there for a Reminder?";
+                message.Body = "Hello! Is there anybody in there for a Reminder? " + "http://localhost:51096/api/Survey/" + resp.RespondentId; 
 
                 smtp.Port = Convert.ToInt32(ConfigurationManager.AppSettings["SmtpPort"]);
                 smtp.Host = ConfigurationManager.AppSettings["SmtpHost"];

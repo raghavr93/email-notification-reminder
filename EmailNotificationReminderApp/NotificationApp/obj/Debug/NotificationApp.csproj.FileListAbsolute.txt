@@ -15,3 +15,12 @@ D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\obj
 D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\bin\Debug\NotificationApp.exe.config
 D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\bin\Debug\NotificationApp.exe
 D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\obj\Debug\NotificationApp.exe
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\bin\Debug\Newtonsoft.Json.dll
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\bin\Debug\System.Net.Http.Formatting.dll
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\bin\Debug\System.Web.Http.dll
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\bin\Debug\WebActivator.dll
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\bin\Debug\Newtonsoft.Json.xml
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\bin\Debug\System.Net.Http.Formatting.xml
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\bin\Debug\System.Web.Http.xml
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\obj\Debug\NotificationApp.csprojAssemblyReference.cache
