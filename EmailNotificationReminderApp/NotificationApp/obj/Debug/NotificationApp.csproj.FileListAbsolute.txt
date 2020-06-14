@@ -1,0 +1,17 @@
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\bin\Debug\NotificationApp.pdb
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\bin\Debug\Dapper.dll
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\bin\Debug\SimpleInjector.dll
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\bin\Debug\Dapper.xml
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\bin\Debug\SimpleInjector.xml
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\obj\Debug\NotificationApp.csproj.CoreCompileInputs.cache
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\obj\Debug\NotificationApp.csproj.CopyComplete
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\obj\Debug\NotificationApp.pdb
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\bin\Debug\NotificationApp.exe.config
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\bin\Debug\NotificationApp.exe
+D:\EmailNotificarionReminderApp\EmailNotificationReminderApp\NotificationApp\obj\Debug\NotificationApp.exe

@@ -1,15 +1,36 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using SimpleInjector;
+using System;
+
 
 namespace NotificationApp
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string []args)
         {
+            var container = new Container();
+
+            container.Register<IDbRespondent, DbRespondents>();
+            container.Register<IMailSender, MailSender>();
+            container.Register<IReminderSender, ReminderSender>();
+
+            switch (args[0])
+            {
+                case "survey":
+                    container.Register<SendNotification>();
+                    var send = container.GetInstance<SendNotification>();
+                    send.Run();
+                    break;
+                case "reminder":
+                    container.Register<SendReminder>();
+                    var remind = container.GetInstance<SendReminder>();
+                    remind.Run();
+                    break;
+                default:
+                    Console.WriteLine("Enter parameter \"survey\" or \"reminder\" ");
+                    break;
+            }
         }
+
     }
 }
